@@ -1,1 +1,3 @@
 Primeira versão: arquivo criado no IntelliJ.
+
+Segunda versão: alteração para praticar um novo commit.
